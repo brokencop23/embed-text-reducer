@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "embed-text-reducer"
-version = "0.0.1"
+version = "0.0.3"
 description = "A simple text simplification tool using advanced NLP techniques."
 authors = [
     {name = "Danil Emelyanov", email = "d.emelianov1991@gmail.com"},

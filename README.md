@@ -14,7 +14,7 @@ TextReducer is a Python library for simplifying text content using advanced Natu
 Install TextReducer using pip:
 
 ```bash
-pip install text-simplifier
+pip install embed-text-reducer
 ```
 
 ## Usage
